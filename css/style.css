@@ -1,0 +1,3 @@
+.container-fluid > .row:first-child {
+  height: 80vh !important;
+}
